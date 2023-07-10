@@ -1,4 +1,4 @@
-### Pendecias:
+### Pendencias:
 
 - [ ] Aplicar pattern de composição.
 - [ ] Aplicar responsividade.
@@ -8,5 +8,5 @@
 - [ ] Refatorar Código.
 - [ ] Melhorar reutilização do código.
 
-Preview:   
+Preview: https://github-find-jobs.netlify.app/    
 Figma: https://www.figma.com/file/gAkVx9CdOqnJcCjJ7nVNkw/job-search?node-id=0%3A1&mode=dev
